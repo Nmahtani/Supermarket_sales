@@ -5,7 +5,7 @@ Supermarket Sales Analysis ETL Project
 
 This project is a beginner-to-intermediate level data science pipeline focusing on the **ETL (Extract, Transform, Load)** process. Using Python and Jupyter Notebook, we analyze supermarket sales data to uncover trends and generate visual insights. 
 
-The project demonstrates the complete lifecycle of a data analysis task, from importing raw data to cleaning, transforming, analyzing, and visualizing it.
+The project demonstrates the complete lifecycle of a data analysis task from importing raw data to cleaning, transforming, analyzing, and visualizing it.
 
 ---
 
